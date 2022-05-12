@@ -1,5 +1,7 @@
 # projeto-game-ip
 
+Projeto desenvolvido em grupo para a discplina de Introdução a Progamação do primeiro período da UFPE
+
 ### Download e uso
 1. Clone o repositório `git clone https://github.com/lucasviinic/projeto-game-ip.git`
 2. Na raiz do projeto, crie um ambiente virtual, por exemplo `virtualenv <nome_do_ambiente_virtual>` sem as tags
